@@ -5,7 +5,7 @@
 - 📫 How to reach me ...  
 
 # My projects 🌱  
-- [How much skittles](https://github.com/vodvlad/YtmBot)  
+- [Youtube Music downloader](https://github.com/vodvlad/YtmBot)  
 - [Find a QR code](https://github.com/vodvlad/find-a-qr-code)  
 - [Poisoned mushrooms](https://github.com/vodvlad/poisoned_mushrooms)  
 - [How much skittles](https://github.com/vodvlad/how-much-skittles)

@@ -8,7 +8,7 @@
 - [Youtube Music downloader](https://github.com/vodvlad/YtmBot)  
 - [Find a QR code](https://github.com/vodvlad/find-a-qr-code)  
 - [Poisoned mushrooms](https://github.com/vodvlad/poisoned_mushrooms)  
-- [How much skittles](https://github.com/vodvlad/how-much-skittles)
+- [How many skittles](https://github.com/vodvlad/how-many-skittles)
 
 <!---
 vodvlad/vodvlad is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

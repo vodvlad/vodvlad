@@ -5,6 +5,7 @@
 - 📫 How to reach me ...  
 
 # My projects 🌱  
+- [Authorization and account creation in Java language](https://github.com/vodvlad/Java-login-with-mysql)
 - [Youtube Music downloader](https://github.com/vodvlad/YtmBot)  
 - [Find a QR code](https://github.com/vodvlad/find-a-qr-code)  
 - [Poisoned mushrooms](https://github.com/vodvlad/poisoned_mushrooms)  

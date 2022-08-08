@@ -9,6 +9,7 @@
 - [Find a QR code](https://github.com/vodvlad/find-a-qr-code)  
 - [Poisoned mushrooms](https://github.com/vodvlad/poisoned_mushrooms)  
 - [How many skittles](https://github.com/vodvlad/how-many-skittles)
+- [Casino roulette](https://github.com/vodvlad/casino-roulette)
 
 <!---
 vodvlad/vodvlad is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

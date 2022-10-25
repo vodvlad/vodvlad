@@ -5,6 +5,7 @@
 - 📫 How to reach me ...  
 
 # My projects 🌱  
+[![Authorization and account creation in Java language](https://img.shields.io/badge/-Authorization_and_account_creation_in_Java_language-090909?style=for-the-badge)](https://github.com/vodvlad/Java-login-with-mysql)
 - [Authorization and account creation in Java language](https://github.com/vodvlad/Java-login-with-mysql)
 - [Youtube Music downloader](https://github.com/vodvlad/YtmBot)  
 - [Find a QR code](https://github.com/vodvlad/find-a-qr-code)  
@@ -19,9 +20,13 @@
 ![Html](https://img.shields.io/badge/-Html_&_CSS-090909?style=for-the-badge&logo=html5)
 ![MySQL](https://img.shields.io/badge/-MySQL-090909?style=for-the-badge&logo=mysql)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vodvlad&layout=compact&theme=dark)
+
+# My Stats 📈
+![vodvlad GitHub stats](https://github-readme-stats.vercel.app/api?username=vodvlad&hide=stars,prs,issues&show_icons=true&theme=dark)
+
 # Follow Me 👋
 [![Facebook](https://img.shields.io/badge/-Facebook-090909?style=for-the-badge&logo=facebook)](https://www.facebook.com/people/Vladyslav-Vodopianov/100009722350174/)
-
 
 
 <!---

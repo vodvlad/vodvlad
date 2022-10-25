@@ -5,13 +5,12 @@
 - 📫 How to reach me ...  
 
 # My projects 🌱  
-[![Authorization and account creation in Java language](https://img.shields.io/badge/-Authorization_and_account_creation_in_Java_language-090909?style=for-the-badge)](https://github.com/vodvlad/Java-login-with-mysql)
-- [Authorization and account creation in Java language](https://github.com/vodvlad/Java-login-with-mysql)
-- [Youtube Music downloader](https://github.com/vodvlad/YtmBot)  
-- [Find a QR code](https://github.com/vodvlad/find-a-qr-code)  
-- [Poisoned mushrooms](https://github.com/vodvlad/poisoned_mushrooms)  
-- [How many skittles](https://github.com/vodvlad/how-many-skittles)
-- [Casino roulette](https://github.com/vodvlad/casino-roulette)
+[![Authorization and account creation in Java language](https://img.shields.io/badge/-Authorization_and_account_creation_in_Java_language-090909?style=for-the-badge)](https://github.com/vodvlad/Java-login-with-mysql)  
+[![Youtube Music downloader](https://img.shields.io/badge/-Youtube_Music_downloader-090909?style=for-the-badge)](https://github.com/vodvlad/YtmBot)  
+[![Find a QR code](https://img.shields.io/badge/-Find_a_QR_code-090909?style=for-the-badge)](https://github.com/vodvlad/find-a-qr-code)  
+[![Poisoned mushrooms](https://img.shields.io/badge/-Poisoned_mushrooms-090909?style=for-the-badge)](https://github.com/vodvlad/poisoned_mushrooms)  
+[![How many skittles](https://img.shields.io/badge/-How_many_skittles-090909?style=for-the-badge)](https://github.com/vodvlad/how-many-skittles)  
+[![Casino roulette](https://img.shields.io/badge/-How_many_skittles-090909?style=for-the-badge)](https://github.com/vodvlad/casino-roulette)  
 
 # Languages and Tools 📋
 ![Python](https://img.shields.io/badge/-Python-090909?style=for-the-badge&logo=python)

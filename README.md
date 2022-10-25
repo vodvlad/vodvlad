@@ -19,7 +19,8 @@
 ![Html](https://img.shields.io/badge/-Html_&_CSS-090909?style=for-the-badge&logo=html5)
 ![MySQL](https://img.shields.io/badge/-MySQL-090909?style=for-the-badge&logo=mysql)
 
-
+# Follow Me 👋
+[![Facebook](https://img.shields.io/badge/-Facebook-090909?style=for-the-badge&logo=facebook)](https://www.facebook.com/people/Vladyslav-Vodopianov/100009722350174/)
 
 
 

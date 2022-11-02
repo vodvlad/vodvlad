@@ -4,7 +4,7 @@
 [![Find a QR code](https://img.shields.io/badge/-Find_a_QR_code-090909?style=for-the-badge)](https://github.com/vodvlad/find-a-qr-code)  
 [![Poisoned mushrooms](https://img.shields.io/badge/-Poisoned_mushrooms-090909?style=for-the-badge)](https://github.com/vodvlad/poisoned_mushrooms)  
 [![How many skittles](https://img.shields.io/badge/-How_many_skittles-090909?style=for-the-badge)](https://github.com/vodvlad/how-many-skittles)  
-[![Casino roulette](https://img.shields.io/badge/-How_many_skittles-090909?style=for-the-badge)](https://github.com/vodvlad/casino-roulette)  
+[![Casino roulette](https://img.shields.io/badge/-Casino_roulette-090909?style=for-the-badge)](https://github.com/vodvlad/casino-roulette)  
 
 # Languages and Tools 📋
 ![Python](https://img.shields.io/badge/-Python-090909?style=for-the-badge&logo=python)

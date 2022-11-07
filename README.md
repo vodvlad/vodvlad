@@ -20,7 +20,7 @@
 
 # Follow Me 👋
 [![Facebook](https://img.shields.io/badge/-Facebook-090909?style=for-the-badge&logo=facebook)](https://www.facebook.com/people/Vladyslav-Vodopianov/100009722350174/)
-[![Facebook](https://img.shields.io/badge/-Facebook-090909?style=for-the-badge&logo=linkedin)](https://www.facebook.com/people/Vladyslav-Vodopianov/100009722350174/)
+[![Facebook](https://img.shields.io/badge/-LinkedIn-090909?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/vladyslav-vodopianov-955129256/)
 ![Email](https://img.shields.io/badge/-vodvlad2001@gmail.com-090909?style=for-the-badge&logo=gmail)
 
 

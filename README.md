@@ -1,4 +1,5 @@
 # My projects 🌱  
+[![Android application in Java language. Party Games.](https://img.shields.io/badge/-Authorization_and_account_creation_in_Java_language-090909?style=for-the-badge)](https://github.com/vodvlad/Party-Games)
 [![Authorization and account creation in Java language](https://img.shields.io/badge/-Authorization_and_account_creation_in_Java_language-090909?style=for-the-badge)](https://github.com/vodvlad/Java-login-with-mysql)  
 [![Youtube Music downloader](https://img.shields.io/badge/-Youtube_Music_downloader-090909?style=for-the-badge)](https://github.com/vodvlad/YtmBot)  
 [![Find a QR code](https://img.shields.io/badge/-Find_a_QR_code-090909?style=for-the-badge)](https://github.com/vodvlad/find-a-qr-code)  

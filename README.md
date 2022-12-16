@@ -1,6 +1,6 @@
 # My projects 🌱  
 [![Android application in Java language. Party Games.](https://img.shields.io/badge/-Android_application_in_Java_language._Party_Games.-090909?style=for-the-badge)](https://github.com/vodvlad/Party-Games)  
-[![Authorization and account creation in Java language](https://img.shields.io/badge/-Authorization_and_account_creation_in_Java_language-090909?style=for-the-badge)](https://github.com/vodvlad/Java-login-with-mysql)
+[![Authorization and account creation in Java language](https://img.shields.io/badge/-Authorization_and_account_creation_in_Java_language-090909?style=for-the-badge)](https://github.com/vodvlad/Java-login-with-mysql)  
 [![Search for books and authors by api request in Go lang](https://img.shields.io/badge/-Search_for_books_and_authors_by_api_request_in_Go_lang-090909?style=for-the-badge)](https://github.com/vodvlad/Search-for-books-and-authors-by-api-request)  
 [![Youtube Music downloader](https://img.shields.io/badge/-Youtube_Music_downloader-090909?style=for-the-badge)](https://github.com/vodvlad/YtmBot)  
 [![Find a QR code](https://img.shields.io/badge/-Find_a_QR_code-090909?style=for-the-badge)](https://github.com/vodvlad/find-a-qr-code)  

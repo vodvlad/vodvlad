@@ -9,9 +9,9 @@
 [![Casino roulette](https://img.shields.io/badge/-Casino_roulette-090909?style=for-the-badge)](https://github.com/vodvlad/casino-roulette)  
 
 # Languages and Tools 📋
-![Python](https://img.shields.io/badge/-Python-090909?style=for-the-badge&logo=python)
+![Flutter](https://img.shields.io/badge/-Flutter-090909?style=for-the-badge&logo=flutter)
 ![Java](https://img.shields.io/badge/-Java_&_JavaScript-090909?style=for-the-badge&logo=javascript)
-![CSharp](https://img.shields.io/badge/-C_Sharp-090909?style=for-the-badge&logo=csharp)
+![Python](https://img.shields.io/badge/-Python-090909?style=for-the-badge&logo=python)
 ![Html](https://img.shields.io/badge/-Html_&_CSS-090909?style=for-the-badge&logo=html5)
 ![MySQL](https://img.shields.io/badge/-MySQL-090909?style=for-the-badge&logo=mysql)
 

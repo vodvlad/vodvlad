@@ -13,7 +13,6 @@
 ![Java](https://img.shields.io/badge/-Java_&_JavaScript-090909?style=for-the-badge&logo=javascript)
 ![Python](https://img.shields.io/badge/-Python-090909?style=for-the-badge&logo=python)
 ![Html](https://img.shields.io/badge/-Html_&_CSS-090909?style=for-the-badge&logo=html5)
-![MySQL](https://img.shields.io/badge/-MySQL-090909?style=for-the-badge&logo=mysql)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vodvlad&layout=compact&theme=dark)
 

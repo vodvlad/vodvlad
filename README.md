@@ -1,11 +1,9 @@
 # My projects 🌱  
-[![Authorization and account creation in Java language](https://img.shields.io/badge/-Authorization_and_account_creation_in_Java_language-090909?style=for-the-badge)](https://github.com/vodvlad/Java-login-with-mysql)  
 [![Search for books and authors by api request in Go lang](https://img.shields.io/badge/-Search_for_books_and_authors_by_api_request_in_Go_lang-090909?style=for-the-badge)](https://github.com/vodvlad/Search-for-books-and-authors-by-api-request)  
 [![Youtube Music downloader](https://img.shields.io/badge/-Youtube_Music_downloader-090909?style=for-the-badge)](https://github.com/vodvlad/YtmBot)  
 [![Find a QR code](https://img.shields.io/badge/-Find_a_QR_code-090909?style=for-the-badge)](https://github.com/vodvlad/find-a-qr-code)  
 [![Poisoned mushrooms](https://img.shields.io/badge/-Poisoned_mushrooms-090909?style=for-the-badge)](https://github.com/vodvlad/poisoned_mushrooms)  
 [![How many skittles](https://img.shields.io/badge/-How_many_skittles-090909?style=for-the-badge)](https://github.com/vodvlad/how-many-skittles)  
-[![Casino roulette](https://img.shields.io/badge/-Casino_roulette-090909?style=for-the-badge)](https://github.com/vodvlad/casino-roulette)  
 
 # Languages and Tools 📋
 ![Flutter](https://img.shields.io/badge/-Flutter-090909?style=for-the-badge&logo=flutter)
